@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "version": "6.9.0",
+      "port-version": 0,
+      "git-tree": "0efcac3b9429bf38a7b2fc5ff6c346c98e6c237b" //run "git rev-parse COMMIT-ID:ports/mylibrary"
+    }
+  ]
+}

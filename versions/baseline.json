@@ -1,0 +1,8 @@
+{
+  "default": {
+    "mylibrary": {
+      "baseline": "6.9.0",
+      "port-version": 0
+    }
+  }
+}
