@@ -1,7 +1,7 @@
 vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO Murk42/MyLibrary
-	REF 8bef09ed0a9281dee43b4da09cf254e2790f7a1c 
+	REF f41f469c8665b662feed0a154490e31f9cdd3e97 #hash to the library repo commit 
 	SHA512 aefab53eccc1a244709a77cb3b58959dd74365b883ca548c121029e8ce98c4d96dd30df741aab27ea785c8eb4799099881165672f6aba8f1b1cfa52e375b53dd
 	HEAD_REF master
 )
