@@ -4,6 +4,9 @@
 	"description": "hihihiha",
 	"homepage": "https://github.com/Murk42/MyLibrary",
 	"dependencies": [
-		"sdl2"
+		{
+			"name": "sdl2",
+			"version":  "2.28.3"
+		}
 	]
 }
